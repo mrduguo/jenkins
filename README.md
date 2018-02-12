@@ -19,6 +19,9 @@ docker run -p 6010:8080 --name jenkins \
 
 ```
 
+### Docker hub published tags
+
+https://hub.docker.com/r/mrduguo/jenkins/tags/
 
 
 
