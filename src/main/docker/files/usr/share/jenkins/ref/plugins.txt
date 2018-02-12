@@ -1,0 +1,9 @@
+antisamy-markup-formatter:latest
+email-ext:latest
+htmlpublisher:latest
+git:latest
+github:latest
+gradle:latest
+throttle-concurrents:latest
+timestamper:latest
+workflow-aggregator:latest
